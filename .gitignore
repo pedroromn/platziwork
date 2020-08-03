@@ -12,5 +12,7 @@
 # Ignore all local history of files
 .history
 
+
 # End of https://www.gitignore.io/api/visualstudiocode
 poo_algoritmos_python/myproject/env/
+programacion_dinamica_estocastica_python/camino_de_borrachos/env/
