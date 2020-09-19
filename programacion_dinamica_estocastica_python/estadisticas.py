@@ -7,7 +7,7 @@ def media(X):
     return sum(X) / len(X)
 
 def varianza(X, mu):
-    """ Calcula la varianza de un conjunto de datos X. """
+    """ Calcula la varianza de un conjunto de datos X, con media mu."""
     acumulador = 0
     for x in X:
         acumulador += (x - mu)**2
